@@ -8,7 +8,8 @@ Se calló y se pegó
 Había una vez unos alumnos que pasaban una clase de migue
 
 Erase unabes untipo quno savía scribir
-De repente, aprendió a usar git y alguien corrigió sus frases, fin.
+De repente, aprendió a usar git
+Finalmante, alguien corrigió sus frases, fin.
 
 El percebe Feo
 Habia una vez un percebe feo
